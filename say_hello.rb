@@ -8,6 +8,6 @@
 
 def say_hello (your_name = "Ruby Programmer")
   puts "Hello #{your_name}"
-end s
+end
 
 say_hello()
